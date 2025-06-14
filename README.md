@@ -1,16 +1,39 @@
-# diary
+# 📔 Diary - Flutter App
 
-A new Flutter project.
+A beautifully designed personal diary app built using Flutter. Users can write, edit, and view their daily entries with sentiment analysis, calendar views, and customizable themes. Perfect for tracking emotions, journaling experiences, or building the habit of daily reflection.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📝 **Create, Edit & Delete Entries**  
+  Easily write your thoughts and manage your diary entries.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📅 **Calendar View**  
+  Navigate your diary with an interactive calendar to revisit past entries.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 😊 **Sentiment Analysis**  
+  Automatically detects the tone of your writing (positive, negative, or neutral).
+
+- 🎨 **Themes Support**  
+  Switch between aesthetic themes to personalize your writing experience.
+
+- 🔒 **Local Storage with SQLite**  
+  Your data is stored securely on your device.
+
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter** – UI toolkit
+- **Provider** – State management
+- **SQLite** – Local database
+- **Google Fonts** – For typography
+- **Table Calendar** – Calendar integration
+- **sentiment_dart** – Sentiment analysis library
+- **Shared Preferences** – To store theme settings
+- **Intl** – Date formatting
+
+---
+
